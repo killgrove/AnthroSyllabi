@@ -6,3 +6,6 @@ or use them to generate ideas for your own course!
 
 (FAQ: No, I don't think this made students read the syllabus any more than they had read the un-spiffed-up
 ones in the past.  But they did give off a good first impression to my students and colleagues!)
+
+As with other large file types, GitHub can't display this, and you can't right-click to download the file
+from the main repository page.  So just click on the Download ZIP button on the right --->
